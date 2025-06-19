@@ -111,3 +111,9 @@ PERSPECTIVE_API_KEY = "your_perspective_api_key"
 By Chaitrika M Bhat
 Data Science Master's Student  
 ✉️ chaitrikambhat@gmail.com
+
+---
+
+## Demo
+
+Try the live app here: [ https://safecity-project.streamlit.app/ ]
