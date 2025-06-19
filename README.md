@@ -108,8 +108,8 @@ PERSPECTIVE_API_KEY = "your_perspective_api_key"
 
 ## ✨ Author
 
-By Chaitrika M Bhat
-Data Science Master's Student  
+-By Chaitrika M Bhat
+-Data Science Master's Student  
 ✉️ chaitrikambhat@gmail.com
 
 ---
